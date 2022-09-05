@@ -1,4 +1,4 @@
-5x = input("Coloque um valor: ")
+x = input("Coloque um valor: ")
 
 function M = aula2(x)
   M = ones(x)
